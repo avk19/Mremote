@@ -1,0 +1,18 @@
+2016-11-25 21:50:12,995 [1] INFO - mRemoteNG 1.74.6023.15358 Portable Edition starting.
+2016-11-25 21:50:13,005 [1] INFO - Command Line: System.String[]
+2016-11-25 21:50:14,258 [1] INFO - Microsoft Windows 10 Pro  64-bit
+2016-11-25 21:50:14,258 [1] INFO - Microsoft .NET CLR 4.0.30319.42000
+2016-11-25 21:50:14,258 [1] INFO - System Culture: en-US/English (United States)
+2016-11-25 21:50:16,220 [1] WARN - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2016-11-25 21:50:16,240 [1] WARN - XmingPortablePuttySessions.Watcher.StartWatching() failed.
+The directory name sessions is invalid.
+2016-11-25 21:50:59,308 [1] INFO - mRemoteNG 1.74.6023.15358 Portable Edition starting.
+2016-11-25 21:50:59,320 [1] INFO - Command Line: System.String[]
+2016-11-25 21:51:00,421 [1] INFO - Microsoft Windows 10 Pro  64-bit
+2016-11-25 21:51:00,422 [1] INFO - Microsoft .NET CLR 4.0.30319.42000
+2016-11-25 21:51:00,422 [1] INFO - System Culture: en-US/English (United States)
+2016-11-25 21:51:01,463 [1] WARN - PuttySessions.Watcher.StartWatching() failed.
+Not found 
+2016-11-25 21:51:01,464 [1] WARN - XmingPortablePuttySessions.Watcher.StartWatching() failed.
+The directory name sessions is invalid.
